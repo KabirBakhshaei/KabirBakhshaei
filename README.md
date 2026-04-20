@@ -22,15 +22,3 @@
                                                                   ┣━━ Supervisor: Prof. Gianluigi Rozza
                                                                   ┗━━ Cardiovascular Flows · Wind Energy · Heat Transfer
 ```
-
-### 📌 Projects
-
-| Repository | Description | Stack |
-|---|---|---|
-| [**ithaca-fv-agentic-rag**](https://github.com/KabirBakhshaei/ithaca-fv-agentic-rag) | Agentic RAG assistant for ITHACA-FV · LangGraph + Gemma 4 · Fully local | Python |
-| [**bayesian-inverse-heat-transfer-journal**](https://github.com/KabirBakhshaei/bayesian-inverse-heat-transfer-journal) | Code & data for journal paper on Bayesian ROM for inverse heat transfer | C++ |
-| [**digit-classifier**](https://github.com/KabirBakhshaei/digit-classifier) | Real-time MNIST classifier · 98.98% accuracy · PyTorch + Gradio | Python |
-| [**paperradar-agent**](https://github.com/KabirBakhshaei/paperradar-agent) | Local AI agent for academic paper monitoring · vLLM · SLURM/HPC | Python |
-| [**ITHACA-FV**](https://github.com/KabirBakhshaei/ITHACA-FV) | Fork of the open-source ROM library for OpenFOAM | C++ |
-
----
