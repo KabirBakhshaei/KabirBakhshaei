@@ -23,16 +23,6 @@
                                                                   ┗━━ Cardiovascular Flows · Wind Energy · Heat Transfer
 ```
 
----
-
-### 🔭 Current Work
-
-- **PINNs for CFD** — Collocation strategies & hyperparameter studies for urban flow prediction (H100 HPC cluster)
-- **Hybrid Reduced-Order Models** — Turbulent flow modelling combining data-driven and physics-based methods
-- **Scientific ML** — Integrating OpenFOAM simulation data with deep learning surrogates
-
----
-
 ### 📌 Projects
 
 | Repository | Description | Stack |
@@ -44,19 +34,3 @@
 | [**ITHACA-FV**](https://github.com/KabirBakhshaei/ITHACA-FV) | Fork of the open-source ROM library for OpenFOAM | C++ |
 
 ---
-
-### 🛠️ Tools & Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-00A98F?style=flat&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SLURM/HPC](https://img.shields.io/badge/HPC%2FSLURM-4A90D9?style=flat&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
----
-
-### 📫 Connect
-
-[![Website](https://img.shields.io/badge/Personal%20Website-34A853?style=flat&logo=google&logoColor=white)](https://sites.google.com/view/bakhshaei/home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabir-bakhshaei)
